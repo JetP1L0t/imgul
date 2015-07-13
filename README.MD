@@ -1,4 +1,4 @@
-= simple image store\exchange script
+## simple image store\exchange script
 
 simple image store\exchange script written in php, doesn't use any database, requires GD library and >php4. useful for storing avatars & screenshots.
 ----
